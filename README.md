@@ -10,12 +10,11 @@ https://pytorch.org/examples/
 - For changes to pytorch.org: https://github.com/pytorch/pytorch.github.io
 - For a general model hub: https://pytorch.org/hub/ or https://huggingface.co/models
 - For recipes on how to run PyTorch in production: https://github.com/facebookresearch/recipes
-- For general Q&A and support: https://discuss.pytorch.org/
 
 ## Available models
 
-- [Image classification (MNIST) using Convnets](./mnist/README.md)
-- [Word-level Language Modeling using RNN and Transformer](./word_language_model/README.md)
+- [Image classification (MNIST) using Convnets](./mnist/README.md) lets add somthing here
+- [Word-levels Language Modeling using RNN and Transformer](./word_language_model/README.md)
 - [Training Imagenet Classifiers with Popular Networks](./imagenet/README.md)
 - [Generative Adversarial Networks (DCGAN)](./dcgan/README.md)
 - [Variational Auto-Encoders](./vae/README.md)
@@ -34,6 +33,8 @@ Additionally, a list of good examples hosted in their own repositories:
 
 - [Neural Machine Translation using sequence-to-sequence RNN with attention (OpenNMT)](https://github.com/OpenNMT/OpenNMT-py)
 
-## Contributing
+## Contributings
 
 If you'd like to contribute your own example or fix a bug please make sure to take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
+
+added
